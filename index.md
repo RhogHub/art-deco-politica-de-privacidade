@@ -63,3 +63,29 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificare
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail:
 
 **contato@rhog.com.br**
+
+## 10. Exclusão de Conta e Dados
+
+Você tem o direito de solicitar a exclusão da sua conta e dos dados associados a ela a qualquer momento.
+
+**Como Solicitar a Exclusão:**
+
+Para solicitar a exclusão de sua conta e dados, por favor, envie um e-mail para:
+**contato@rhog.com.br**
+
+No assunto do e-mail, por favor, coloque: **"Solicitação de Exclusão de Conta - Art Deco"**.
+
+Para verificarmos sua identidade, por favor, envie a solicitação a partir do mesmo endereço de e-mail que você usou para criar sua conta no aplicativo Art Deco.
+
+**Quais Dados São Excluídos:**
+
+Após a confirmação, os seguintes dados serão permanentemente excluídos dos nossos sistemas:
+*   Suas informações de perfil (nome, e-mail, foto de perfil).
+*   Todo o seu conteúdo gerado, incluindo artes salvas na galeria e submissões de desafios.
+*   Seu histórico de pontuação e votos.
+
+**Quais Dados Podem Ser Mantidos:**
+
+Alguns dados não pessoais e anônimos podem ser mantidos para fins de análise estatística. Além disso, registros de transações de compras (como o ID da compra, sem informações pessoais) podem ser mantidos por um período legalmente exigido para fins fiscais e contábeis.
+
+O processo de exclusão será concluído em até 30 dias após a sua solicitação.
