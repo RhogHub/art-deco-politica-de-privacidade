@@ -1,6 +1,6 @@
 # Política de Privacidade para Art Deco
 
-**Última atualização:** 16 de agosto de 2025
+**Última atualização:** 5 de abril de 2026
 
 Bem-vindo ao Art Deco! A sua privacidade é importante para nós. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações quando você utiliza nosso aplicativo móvel Art Deco (o "App").
 
@@ -11,81 +11,60 @@ Ao utilizar o App, você concorda com a coleta e uso de informações de acordo 
 Podemos coletar os seguintes tipos de informações:
 
 **a) Informações Pessoais:**
-*   **Informações de Cadastro:** Quando você cria uma conta, podemos coletar seu nome, endereço de e-mail e um identificador de usuário único.
-*   **Conteúdo Gerado pelo Usuário:** Inclui as imagens que você colore e salva em sua galeria pessoal ou submete para os desafios diários.
-*   **Foto de Perfil:** Se você optar por nos fornecer, coletamos a imagem que você carrega como sua foto de perfil.
+*   **Informações de Cadastro:** Nome, endereço de e-mail e um identificador de usuário único (UID).
+*   **Conteúdo Gerado pelo Usuário:** Imagens coloridas, artes salvas e submissões para desafios.
+*   **Foto de Perfil:** Se fornecida voluntariamente.
 
-**b) Informações de Uso e Técnicas (Não Pessoais):**
-*   Dados sobre sua interação com o App, como pontuações, votos, desafios completados e itens comprados.
-*   Informações do dispositivo, como modelo, sistema operacional e identificadores únicos de dispositivo, para fins de análise e solução de problemas.
+**b) Informações de Uso, Técnicas e Publicidade:**
+*   **Dados de Interação:** Pontuações, votos, progresso em jogos e compras.
+*   **Dados do Dispositivo:** Modelo, sistema operacional, identificadores únicos (como ID de Publicidade) e dados de diagnóstico.
+*   **Parceiros de Publicidade:** Utilizamos o Google AdMob para exibir anúncios. O Google pode coletar e usar dados (como o ID de Publicidade do seu dispositivo) para personalizar anúncios ou medir o desempenho deles.
 
-## 2. Como Usamos Suas Informações
+## 2. Gerenciamento de Consentimento (GDPR e Leis de Privacidade dos EUA)
 
-Utilizamos as informações coletadas para:
-*   Fornecer, operar e manter nosso App.
-*   Gerenciar sua conta e seu perfil de usuário.
-*   Processar suas transações, como compras no aplicativo.
-*   Exibir seu nome de usuário e arte nos rankings e galerias.
-*   Melhorar a experiência do usuário e a funcionalidade do App.
-*   Responder às suas solicitações de suporte e feedback.
+Para cumprir as regulamentações internacionais de privacidade (como o GDPR na Europa e leis estaduais nos EUA), implementamos a **User Messaging Platform (UMP)** da Google.
 
-## 3. Permissões do Aplicativo
+*   **Coleta de Consentimento:** No primeiro acesso, solicitaremos seu consentimento para o processamento de dados por nós e por nossos parceiros de publicidade.
+*   **Personalização de Anúncios:** Dependendo da sua escolha, você poderá ver anúncios personalizados (baseados em seus interesses) ou anúncios não personalizados.
+*   **Alteração de Escolhas:** Você pode revisar ou alterar suas preferências de privacidade a qualquer momento através das configurações do seu dispositivo ou reinstalando o aplicativo para acionar o novo pedido de consentimento.
 
-Para fornecer todas as funcionalidades, o App pode solicitar as seguintes permissões:
+## 3. Como Usamos Suas Informações
 
-*   **android.permission.CAMERA:** Esta permissão é necessária para permitir que você tire uma foto e a utilize como sua imagem de perfil. Não utilizamos a câmera para nenhuma outra finalidade sem a sua ação explícita.
+Utilizamos as informações para:
+*   Operar e manter as funcionalidades do App e dos jogos integrados.
+*   Gerenciar sua conta e status premium.
+*   Exibir seu progresso em rankings globais.
+*   Exibir anúncios contextuais ou personalizados (conforme seu consentimento).
+*   Melhorar a experiência do usuário e resolver problemas técnicos.
 
-## 4. Compartilhamento de Dados
+## 4. Permissões do Aplicativo
 
-Não vendemos suas informações pessoais. Podemos compartilhar suas informações com terceiros apenas nas seguintes situações:
+*   **android.permission.CAMERA:** Para captura de foto de perfil.
+*   **ID de Publicidade:** Usado pelo Google AdMob para fins de monetização e análise, respeitando suas configurações de privacidade.
 
-*   **Provedores de Serviço:** Utilizamos serviços de terceiros que nos ajudam a operar o App, como o Firebase (Google) para autenticação, banco de dados (Firestore) e armazenamento de imagens (Cloud Storage). Eles têm acesso às suas informações apenas para realizar essas tarefas em nosso nome e são obrigados a não divulgá-las ou usá-las para qualquer outra finalidade.
-*   **Requisitos Legais:** Podemos divulgar suas informações se formos obrigados por lei ou em resposta a solicitações válidas de autoridades públicas.
+## 5. Compartilhamento de Dados
 
-## 5. Segurança dos Dados
-
-A segurança de suas informações é uma prioridade. Usamos medidas de segurança comercialmente aceitáveis, como as fornecidas pela plataforma Google Firebase, para proteger seus dados. No entanto, lembre-se que nenhum método de transmissão pela Internet ou de armazenamento eletrônico é 100% seguro.
+Não vendemos suas informações pessoais. Compartilhamos dados com:
+*   **Google Firebase:** Autenticação, banco de dados, armazenamento e análise.
+*   **Google AdMob:** Exibição de anúncios e monetização.
+*   **Autoridades Legais:** Se exigido por lei.
 
 ## 6. Seus Direitos
 
-Você tem o direito de acessar, atualizar ou excluir as informações que temos sobre você. Você pode atualizar as informações do seu perfil diretamente no App ou solicitar outras alterações entrando em contato conosco.
+Você tem o direito de acessar, atualizar ou excluir suas informações. Usuários em certas jurisdições podem ter direitos adicionais de portabilidade e oposição ao processamento.
 
-## 7. Privacidade Infantil
+## 7. Segurança dos Dados
 
-Nosso serviço não se destina a menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.
+Utilizamos medidas de segurança robustas fornecidas pela infraestrutura Google Cloud para proteger seus dados contra acesso não autorizado.
 
-## 8. Alterações a Esta Política de Privacidade
+## 8. Privacidade Infantil
 
-Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer alterações, publicando a nova Política de Privacidade nesta página.
+O App não coleta intencionalmente dados de crianças menores de 13 anos. Se identificarmos tal coleta, os dados serão excluídos imediatamente.
 
 ## 9. Contato
 
-Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail:
-
-**contato@rhog.com.br**
+Dúvidas? Entre em contato em: **contato@rhog.com.br**
 
 ## 10. Exclusão de Conta e Dados
 
-Você tem o direito de solicitar a exclusão da sua conta e dos dados associados a ela a qualquer momento.
-
-**Como Solicitar a Exclusão:**
-
-Para solicitar a exclusão de sua conta e dados, por favor, envie um e-mail para:
-**contato@rhog.com.br**
-
-No assunto do e-mail, por favor, coloque: **"Solicitação de Exclusão de Conta - Art Deco"**.
-
-Para verificarmos sua identidade, por favor, envie a solicitação a partir do mesmo endereço de e-mail que você usou para criar sua conta no aplicativo Art Deco.
-
-**Quais Dados São Excluídos:**
-
-Após a confirmação, os seguintes dados serão permanentemente excluídos dos nossos sistemas:
-*   Suas informações de perfil (nome, e-mail, foto de perfil).
-*   Todo o seu conteúdo gerado, incluindo artes salvas na galeria e submissões de desafios.
-*   Seu histórico de pontuação e votos.
-
-**Quais Dados Podem Ser Mantidos:**
-
-Alguns dados não pessoais e anônimos podem ser mantidos para fins de análise estatística. Além disso, registros de transações de compras (como o ID da compra, sem informações pessoais) podem ser mantidos por um período legalmente exigido para fins fiscais e contábeis.
-
-O processo de exclusão será concluído em até 30 dias após a sua solicitação.
+Você pode solicitar a exclusão de sua conta enviando um e-mail para **contato@rhog.com.br** com o assunto "Solicitação de Exclusão de Conta - Art Deco". O processo será concluído em até 30 dias.
