@@ -63,8 +63,8 @@ O App não coleta intencionalmente dados de crianças menores de 13 anos. Se ide
 
 ## 9. Contato
 
-Dúvidas? Entre em contato em: **contato@rhog.com.br**
+Dúvidas? Entre em contato em: **rhog.dev@gmail.com**
 
 ## 10. Exclusão de Conta e Dados
 
-Você pode solicitar a exclusão de sua conta enviando um e-mail para **contato@rhog.com.br** com o assunto "Solicitação de Exclusão de Conta - Art Deco". O processo será concluído em até 30 dias.
+Você pode solicitar a exclusão de sua conta enviando um e-mail para **rhog.dev@gmail.com** com o assunto "Solicitação de Exclusão de Conta - Art Deco". O processo será concluído em até 30 dias.
